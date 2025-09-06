@@ -105,8 +105,8 @@ Pillow>=8.3.0
 cvxpy>=1.2.1
 scanpy>=1.9.1
 seaborn>=0.11.2
+```
 
----
 
 ## scGraphTrans: Pathway-Guided Graph Learning and Domain Adaptation for Cell Type Annotation in Single-Cell RNA-seq
 
