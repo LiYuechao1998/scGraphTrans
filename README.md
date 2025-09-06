@@ -105,6 +105,23 @@ Pillow>=8.3.0
 cvxpy>=1.2.1
 scanpy>=1.9.1
 seaborn>=0.11.2
+
+---
+
+## scGraphTrans: Pathway-Guided Graph Learning and Domain Adaptation for Cell Type Annotation in Single-Cell RNA-seq
+
+Yue-Chao Li1, Xinyuan Li1, Meng-Meng Wei3, Xin-Fei Wang4, Jie Pan5,6, Zhonghao Ren7, Zhi-An Huang8, Zhu-Hong You1,*, Yu-An Huang1,2,*
+
+1 School of Computer Science, Northwestern Polytechnical University, Shaanxi 710129, China
+2 Research & Development Institute of Northwestern Polytechnical University in Shenzhen, Shenzhen, 518063, China 
+3 School of Computer Science and Technology, China University of Mining and Technology, Xuzhou 221116
+4 College of Computer Science and Technology, Jilin University, Changchun, 130012, China.
+5 Institute of Urology, The Third Affiliated Hospital of Shenzhen University, Shenzhen 518000, People's Republic of China.
+6 School of Biomedical Engineering & Suzhou Institute for Advanced Research, University of Science and Technology of China, Suzhou, China
+7 College of Computer Science and Electronic Engineering, Hunan University, Changsha, 410082, China
+8 Research Office, City University of Hong Kong (Dongguan), Dongguan, 523000, China
+*corresponding authors
+
 ```
 
 
